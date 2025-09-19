@@ -1,0 +1,12 @@
+{
+    "editor.formatOnType": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSaveMode": "file",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "vs-code-prettier-eslint.prettierLast": false,
+    "colorize.languages": ["javascript", "typescript"],
+    "i18n-ally.localesPaths": ["messages", "src/i18n"],
+    "cSpell.words": ["alfg"]
+}
